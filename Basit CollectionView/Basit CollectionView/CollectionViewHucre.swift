@@ -1,13 +1,13 @@
 //
 //  CollectionViewHucre.swift
-//  Basit CollectionView
+//  Basit Collectionview
 //
-//  Created by Cagla Efendioglu on 27.09.2022.
+//  Created by Cagla Efendioglu on 3.10.2022.
 //
 
 import UIKit
 
 class CollectionViewHucre: UICollectionViewCell {
-    
     @IBOutlet weak var hucreLabel: UILabel!
+    
 }
